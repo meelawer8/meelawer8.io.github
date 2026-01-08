@@ -1,0 +1,31 @@
+div{
+  background-color: lightblue;
+}
+body{
+  background-color: darkorchid;
+}
+button{
+  background-color: darkslateblue;
+  border-radius: 10px;
+}
+h4{
+  color: yellow;
+}
+h5{
+  color: magenta;
+}
+h6{
+  color: red;
+}
+p{
+  color: yellowgreen;
+}
+pre{
+  color: cornflowerblue;
+}
+h1{
+  color: blueviolet;
+}
+
+
+
